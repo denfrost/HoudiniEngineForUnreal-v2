@@ -8,6 +8,7 @@
 	"DocsURL" : "http://www.sidefx.com/docs/unreal/",
 	"SupportURL" : "https://www.sidefx.com/bugs/submit/",
 	"Description" : "Houdini Engine for Unreal Engine (v2).",
+	"EngineVersion": "4.26.0",
 	"IsBetaVersion" : false,
 	"Category" : "Rendering",
 	"EnabledByDefault" : true,
